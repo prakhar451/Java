@@ -12,7 +12,7 @@ public class Demo {
 	  int length= Integer.parseInt(args[0]);
 	   if(args.length!=length+1)
 	   {   
-		  System.out.println("error  !!!");
+		  System.out.println("error , Enter Correct number of arguents");
 	   }
 	   else
 	   {
